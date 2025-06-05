@@ -9,6 +9,13 @@ added home and about to the blog
 used templates of html for the pages
 
 # merged C
+merged B into main
 
 # commit D
 optimised .html using base.html
+
+# merged D into main but commit E got lost
+
+# commit E (reused E)
+bootstraps and snippets with static
+cleaned up webpage
